@@ -2,7 +2,7 @@
   --foreground-1: #252831;
   --foreground-2: #21232b;
   --foreground-divider: #dadada;
-  --background-1: #171a1f;
+  --background-1: #26292e;
   --background-2: #131519;
   --box-shadow: 0 0 15px 2px rgba(0, 0, 0, 0.2);
   --scrollbar: rgb(53, 55, 63, 0.5);
@@ -15,7 +15,7 @@
   --user-popout-message: #15171c;
   --settings-box: var(--message-box);
   --settings-box-hover: #16191d;
-  --settings-box-footer: #171a1f;
+  --settings-box-footer: #26292e;
   --settings-input: #131519;
   --settings-paginator: rgba(0, 0, 0, 0.2);
   --settings-separator: rgba(255, 255, 255, 0.05);
@@ -24,7 +24,7 @@
   --dropdown-item-hover: #22262d;
   --message-box: #1b1e23;
   --message-box-divider: #20242a;
-  --message-embed: #171a1f;
+  --message-embed: #26292e;
   --message-button: #2d323c;
   --server-background: #1e2127;
   --server-hovered: #20242a;
@@ -105,7 +105,7 @@
   --message-spacing: var(--chat-message-spacing, 20px);
   --bd-blue: rgba(var(--accent), 1);
   --text-link: rgba(var(--accent), 1);
-  --dark-modal-background: #171a1f;
+  --dark-modal-background: #26292e;
   --dark-modal-item: #1c1f25;
   --dark-modal-footer: #131519;
   --light-modal-background: #f8f8f8;
